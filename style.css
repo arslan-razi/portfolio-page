@@ -172,17 +172,17 @@ section h2 {
 
 #Work0 {
   flex: 1 99%;
-  background-image: url(Assets/images/whatIfStocks.png);
+  background-color: antiquewhite;
 }
 
 #Work1 {
   flex: 1 99%;
-  background-image: url(Assets/images/truzak1.png);
+  background-color: lightgrey;
 }
 
 #Work2 {
   flex: 2 99%;
-  background-image: url(Assets/images/truzak2.png);
+  background-color: antiquewhite;
 }
 
 /* THIRD CONTENT: CONTACT ME */
